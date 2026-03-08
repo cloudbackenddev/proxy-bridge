@@ -13,4 +13,5 @@
     }
 
 
-https://hub.docker.com/repositories/ramkumarar
+docker push ramkumarar/mcp-excalidraw-canvas:tagname
+docker push ramkumarar/mcp-excalidraw:tagname
